@@ -1,2 +1,1 @@
-# JeanHugueskab.io
-My Backend portfolio
+# My backend portfolio
